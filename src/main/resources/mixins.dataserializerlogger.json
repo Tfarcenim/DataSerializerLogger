@@ -1,0 +1,11 @@
+{
+    "compatibilityLevel": "JAVA_8",
+    "package": "tfar.dataserializerlogger.mixin",
+    "refmap": "refmap.dataserializerlogger.json",
+    "mixins": [
+        "EntityDataManagerMixin"
+    ],
+    "client": [
+    ],
+    "server": []
+}
